@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = MathCaptcha::VERSION
   gem.authors       = ["Mike Nelson"]
   gem.email         = ["mike@mikeonrails.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "A captcha using simple math"
+  gem.summary       = "A simple math captcha"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
